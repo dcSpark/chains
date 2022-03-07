@@ -8,7 +8,7 @@
   ],
   "faucets": [],
   "nativeCurrency": {
-    "name": "MilkTAda",
+    "name": "milkTAda",
     "symbol": "milkTAda",
     "decimals": 18
   },
