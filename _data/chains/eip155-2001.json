@@ -4,7 +4,7 @@
   "icon": "milkomeda",
   "rpc": [
     "https://rpc-mainnet-cardano-evm.c1.milkomeda.com",
-    "wss://rpc.c1.milkomeda.com:8546"
+    "wss://rpc-mainnet-cardano-evm.c1.milkomeda.com"
   ],
   "faucets": [],
   "nativeCurrency": {
