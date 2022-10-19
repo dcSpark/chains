@@ -5,7 +5,7 @@
   "network": "mainnet",
   "rpc": [
     "https://rpc-mainnet-algorand-rollup.a1.milkomeda.com",
-    "wss://rpc-mainnet-algorand-rollup.a1.milkomeda.com"
+    "wss://rpc-mainnet-algorand-rollup.a1.milkomeda.com/ws"
   ],
   "faucets": [],
   "nativeCurrency": {
